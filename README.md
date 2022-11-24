@@ -5,4 +5,4 @@ modelo 1 es drifting por zero mas rank, testing y validacion en agosto y septiem
 modelo 2 es el mismo pero con inflacion para corregir y usa mayo y abril como test y validacion
 modelo 3 es drifting por zero rank pero pocos meses, no se llego a correr
 
-una vez corrido el modelo 1 y 2 se hibrido con 1252
+una vez corrido el modelo 1 y 2 se hibrido con 1292
